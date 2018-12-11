@@ -1,18 +1,17 @@
-package kalkulator;
+package calculator;
 
-import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 
     @DisplayName("Kocurek")
-class KalkulatorAppTest {
+class CalculatorAppTest {
 
     @Test
     public void addTestInteger() {
         //arrange
-        KalkulatorApp kalkulatorek = new KalkulatorApp();
+        CalculatorApp kalkulatorek = new CalculatorApp();
         //act
         int suma = kalkulatorek.add(1, 2);
         //assert
@@ -23,7 +22,7 @@ class KalkulatorAppTest {
     @Test
     public void addTestDouble() {
         //arrange
-        KalkulatorApp kalkulatorek = new KalkulatorApp();
+        CalculatorApp kalkulatorek = new CalculatorApp();
         //act
         double suma = kalkulatorek.add(1.3, 2.3);
         //assert
@@ -33,7 +32,7 @@ class KalkulatorAppTest {
     @Test
         public void addTestDzielenie () {
         //arrange
-        KalkulatorApp kalkulatorek = new KalkulatorApp();
+        CalculatorApp kalkulatorek = new CalculatorApp();
         //act
         double divide = kalkulatorek.divide(8, 3);
         //assert
