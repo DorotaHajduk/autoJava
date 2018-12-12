@@ -1,3 +1,5 @@
+//mój
+
 package selenium.basic;
 
 import org.junit.jupiter.api.AfterEach;
@@ -25,10 +27,10 @@ public class SeleniumTest {
     @Test
     public void canFindCodeSprinterOnGoogle() {
 
-        driver.get("https://www.google.com/");
+        driver.get("https://www.google.pl/");
 
         WebElement searchBox = driver.findElement(By.name("q"));
-        searchBox.sendKeys("code sprinters");
+        //searchBox.sendKeys("code sprinters");
         searchBox.submit();
         //  driver.findElements(By.ByCssSelector("div.rc"));
         Stream<WebElement> searchResults = driver.findElements(By.cssSelector("div.rc")).stream();
@@ -40,6 +42,9 @@ public class SeleniumTest {
         WebElement result = resultList.get(0);
         Assertions.assertEquals("agileszkolenia.pl/", result.findElement(By.tagName("cite")).getText());
     }
+
+
+
         @AfterEach
                 public void closeDriver() {
         driver.quit();
