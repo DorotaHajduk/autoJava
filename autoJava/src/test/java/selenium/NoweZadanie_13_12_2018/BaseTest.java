@@ -1,4 +1,4 @@
-package selenium.pageObjects.NoweZadanie;
+package selenium.NoweZadanie_13_12_2018;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -18,8 +18,8 @@ public class BaseTest {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
 
-    @AfterEach
-    public void quitBrowser() {
+   @AfterEach
+   public void quitBrowser() {
         driver.quit();
     }
 }

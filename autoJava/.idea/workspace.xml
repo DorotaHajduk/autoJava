@@ -12,33 +12,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="521">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/GoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="510">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-332">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/WordpressTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/WordpressTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="487">
+              <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1564#1565#0" expanded="true" />
@@ -49,38 +62,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpMainPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/pages/wpMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpNotePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="331">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/pages/wpNotePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="629">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="23" column="68" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="23" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/GoogleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleResultPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,10 +167,14 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/GoogleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleResultPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpNotePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie/WordpressTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/WordpressTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/WordpressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie/pages/wpMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie/pages/wpNotePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie/WordpressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/WordpressTest.java" />
       </list>
     </option>
   </component>
@@ -251,7 +306,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+              <item name="NoweZadanie_13_12_2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
@@ -260,19 +315,17 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
-              <item name="NoweZadanie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autoJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
-              <item name="NoweZadanie" type="462c0819:PsiDirectoryNode" />
+              <item name="NoweZadanie_13_12_2018" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
@@ -293,7 +346,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544699992397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544710657780" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
@@ -318,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WordpressTest">
+  <component name="RunManager" selected="JUnit.WordpressTest.canAddCommentToFirstNote">
     <configuration name="GoogleTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autojava" />
       <extension name="coverage">
@@ -347,22 +400,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleTest.ClickNewWebPageAndAddTheComments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="autojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.basic" />
-      <option name="MAIN_CLASS_NAME" value="selenium.basic.GoogleTest" />
-      <option name="METHOD_NAME" value="ClickNewWebPageAndAddTheComments" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GoogleTest.canFindScrumOrgOnGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autojava" />
       <extension name="coverage">
@@ -383,23 +420,39 @@
       <module name="autojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.pageObjects.NoweZadanie.*" />
+          <option name="PATTERN" value="selenium.NoweZadanie_13_12_2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium.pageObjects.NoweZadanie" />
-      <option name="MAIN_CLASS_NAME" value="selenium.pageObjects.NoweZadanie.WordpressTest" />
+      <option name="PACKAGE_NAME" value="selenium.NoweZadanie_13_12_2018" />
+      <option name="MAIN_CLASS_NAME" value="selenium.NoweZadanie_13_12_2018.WordpressTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordpressTest.canAddCommentToFirstNote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.NoweZadanie_13_12_2018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.NoweZadanie_13_12_2018" />
+      <option name="MAIN_CLASS_NAME" value="selenium.NoweZadanie_13_12_2018.WordpressTest" />
+      <option name="METHOD_NAME" value="canAddCommentToFirstNote" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordpressTest.canAddCommentToFirstNote" />
         <item itemvalue="JUnit.WordpressTest" />
         <item itemvalue="JUnit.GoogleTest (1)" />
         <item itemvalue="JUnit.GoogleTest.canFindScrumOrgOnGoogle" />
         <item itemvalue="JUnit.GoogleTest" />
-        <item itemvalue="JUnit.GoogleTest.ClickNewWebPageAndAddTheComments" />
       </list>
     </recent_temporary>
   </component>
@@ -417,35 +470,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordpressTest_ClickNewWebPageAndAddTheComments - 2018.12.12 at 14h 07m 30s.xml">
-      <configuration name="WordpressTest.ClickNewWebPageAndAddTheComments" configurationId="JUnit" />
+    <history-entry file="GoogleTest_(1) - 2018.12.13 at 13h 39m 41s.xml">
+      <configuration name="GoogleTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTest_ClickNewWebPageAndAddTheComments - 2018.12.12 at 14h 23m 10s.xml">
-      <configuration name="WordpressTest.ClickNewWebPageAndAddTheComments" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WordpressTest_ClickNewWebPageAndAddTheComments - 2018.12.12 at 14h 33m 56s.xml">
-      <configuration name="WordpressTest.ClickNewWebPageAndAddTheComments" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WordpressTest_ClickNewWebPageAndAddTheComments - 2018.12.12 at 14h 34m 46s.xml">
-      <configuration name="WordpressTest.ClickNewWebPageAndAddTheComments" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WordpressTest_ClickNewWebPageAndAddTheComments - 2018.12.12 at 14h 35m 25s.xml">
-      <configuration name="WordpressTest.ClickNewWebPageAndAddTheComments" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WordpressTest - 2018.12.12 at 14h 36m 40s.xml">
+    <history-entry file="WordpressTest - 2018.12.13 at 13h 49m 58s.xml">
       <configuration name="WordpressTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTest_(1) - 2018.12.12 at 17h 19m 24s.xml">
-      <configuration name="GoogleTest (1)" configurationId="JUnit" />
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 05m 27s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTest_canFindScrumOrgOnGoogle - 2018.12.12 at 17h 21m 34s.xml">
-      <configuration name="GoogleTest.canFindScrumOrgOnGoogle" configurationId="JUnit" />
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 17m 45s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTest_canFindScrumOrgOnGoogle - 2018.12.12 at 17h 23m 15s.xml">
-      <configuration name="GoogleTest.canFindScrumOrgOnGoogle" configurationId="JUnit" />
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 17m 53s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTest_(1) - 2018.12.12 at 17h 24m 39s.xml">
-      <configuration name="GoogleTest (1)" configurationId="JUnit" />
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 23m 23s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 25m 28s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 36m 24s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordpressTest - 2018.12.13 at 14h 47m 27s.xml">
+      <configuration name="WordpressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordpressTest_canAddCommentToFirstNote - 2018.12.13 at 14h 48m 17s.xml">
+      <configuration name="WordpressTest.canAddCommentToFirstNote" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -485,26 +538,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="73" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -516,16 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/GoogleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,16 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="42" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleResultPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,6 +605,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/pages/wpMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="68" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="23" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/GoogleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/pages/wpNotePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/GoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -602,52 +667,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/pages/GoogleMainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="521">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpNotePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="-332">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/pages/wpMainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageObjects/NoweZadanie/WordpressTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/NoweZadanie_13_12_2018/WordpressTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="487">
+          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1564#1565#0" expanded="true" />
